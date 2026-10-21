@@ -5,6 +5,8 @@ import { Picker } from '@react-native-picker/picker';
 
 // REUSABLE COMPONENT - Requirement 4: Reusable components
 // Used for every menu item card, so we don't repeat code
+// Reusable Component - Created to reduce repetition and improve maintainability (Part 3 Requirement)
+const MenuItemCard = ...
 function MenuItemCard({ item, onEdit, onDelete }) {
   return (
     <View style={styles.card}>
