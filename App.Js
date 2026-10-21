@@ -66,6 +66,7 @@ export default function App() {
   };
 
   // PART 2 + PART 3: Add OR Update in one function
+  // Handles both Add and Update - Part 3 requirement
   const handleSaveItem = () => {
     if (!validate()) return;
 
