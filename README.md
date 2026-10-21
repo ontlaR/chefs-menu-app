@@ -1,7 +1,7 @@
 # Chef's Menu App - Part 3
 
-Snack Link:
-GitHub:
+Snack Link: https://snack.expo.dev/@ntlamir/snackit
+GitHub: https://github.com/ontlaR/chefs-menu-app
 
 ## Overview
 This is Part 3 of the Chef's Menu App. The app allows a chef to Add, View, Edit, and Delete menu items, plus Search, Filter, and view Statistics. Built with React Native in Expo Snack.
