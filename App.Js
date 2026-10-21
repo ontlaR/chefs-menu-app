@@ -1,3 +1,4 @@
+// Part 3 - Chef Menu App - Enhanced with manage; Search, Filter
 import React, { useState } from 'react';
 import { View, Text, TextInput, StyleSheet, FlatList, TouchableOpacity, Alert, ScrollView } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
