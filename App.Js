@@ -38,6 +38,7 @@ export default function App() {
   const [menuItems, setMenuItems] = useState([]);
 
   // PART 3 - Requirement 1: Manage Menu Items
+  // Load selected item into form for editing
   const [editingId, setEditingId] = useState(null); // null = adding, id = editing
 
   // PART 3 - Requirement 2: Search and Filter
